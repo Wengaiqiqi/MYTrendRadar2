@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T13:30:04.113186+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2025-12-28T14:38:24.503182+08:00",
+  "total_titles_processed": 769,
   "failed_sources": [],
   "trends": [
     {
@@ -107,6 +107,17 @@
           "time_info": "[10时11分 ~ 12时11分]"
         },
         {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 14时38分]"
+        },
+        {
           "title": "泽连斯基抵达美国，准备与特朗普会谈",
           "url": "https://flash.jin10.com/detail/20251228084239521800",
           "source": "金十数据",
@@ -117,17 +128,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时11分 ~ 12时11分]"
-        },
-        {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
         },
         {
           "title": "特朗普为美国带来了什么改变",
