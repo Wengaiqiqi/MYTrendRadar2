@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-01-16T23:32:28.588450+08:00",
-  "total_titles_processed": 2065,
+  "generated_at": "2026-01-17T00:39:10.432097+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "广西",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "广西将上演“速冻”模式",
-          "url": "https://www.toutiao.com/trending/7595020537821855770/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "吴克群帮广西村民办村晚",
-          "url": "https://www.douyin.com/hot/2369033",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
