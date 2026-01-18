@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-01-18T23:27:46.264849+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2026-01-19T00:33:41.656970+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "南宁",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "阿维塔通报“南宁15辆车连撞事故”：辅助驾驶功能未激活",
-          "url": "https://wallstreetcn.com/livenews/3039136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时26分]"
-        },
         {
           "title": "南宁辟谣大明山溪水变色被污染",
           "url": "https://www.douyin.com/hot/2372186",
@@ -28,49 +15,36 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 23时27分]"
+          "appearance_count": 1,
+          "time_info": "00时33分"
         },
         {
           "title": "阿维塔回应南宁 15 车连撞事故称辅助驾驶未激活，还有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1995975261628429781",
           "source": "知乎",
           "ranks": [
-            12,
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 23时27分]"
+          "appearance_count": 1,
+          "time_info": "00时33分"
         }
       ]
     },
     {
       "keyword_group": "广西",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "广西漓江沿岸有黑熊出没？假的",
-          "url": "https://www.toutiao.com/trending/7595895903124078635/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时26分]"
-        },
         {
           "title": "你遇到过类外卖被偷的情况吗？广西一大学生因偷外卖被拘并在外卖架边通报，你如何看这种处理方式？",
           "url": "https://www.zhihu.com/question/1995473564015485294",
           "source": "知乎",
           "ranks": [
-            19,
-            13
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 23时27分]"
+          "appearance_count": 1,
+          "time_info": "00时33分"
         }
       ]
     }
