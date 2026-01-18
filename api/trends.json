@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T05:25:32.185089+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-01-19T06:27:39.908583+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 06时27分]"
         },
         {
           "title": "阿维塔回应南宁 15 车连撞事故称辅助驾驶未激活，还有哪些信息值得关注？",
@@ -26,8 +26,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 06时27分]"
         }
       ]
     },
@@ -44,11 +44,12 @@
             12,
             10,
             14,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 06时27分]"
         }
       ]
     }
