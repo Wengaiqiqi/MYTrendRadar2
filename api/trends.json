@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T07:27:33.069351+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-01-19T10:24:27.159621+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2372186",
           "source": "抖音",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 10时24分]"
         },
         {
           "title": "阿维塔回应南宁 15 车连撞事故称辅助驾驶未激活，还有哪些信息值得关注？",
@@ -26,8 +27,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 10时24分]"
         }
       ]
     },
