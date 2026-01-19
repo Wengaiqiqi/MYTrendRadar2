@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-19T16:42:48.569357+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-01-19T17:43:04.530831+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "广西",
       "match_count": 3,
       "titles": [
+        {
+          "title": "广西大明山溪水变色被污染系谣言",
+          "url": "https://www.toutiao.com/trending/7596658356266532910/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时16分 ~ 17时43分]"
+        },
         {
           "title": "你遇到过类外卖被偷的情况吗？广西一大学生因偷外卖被拘并在外卖架边通报，你如何看这种处理方式？",
           "url": "https://www.zhihu.com/question/1995473564015485294",
@@ -22,17 +33,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 07时27分]"
-        },
-        {
-          "title": "广西大明山溪水变色被污染系谣言",
-          "url": "https://www.toutiao.com/trending/7596658356266532910/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时16分 ~ 16时42分]"
         },
         {
           "title": "广西大明山溪水变色被污染系谣言",
