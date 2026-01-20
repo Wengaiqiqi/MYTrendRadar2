@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T10:12:44.584988+08:00",
-  "total_titles_processed": 772,
+  "generated_at": "2026-01-20T12:11:51.720172+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "广西",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "广西：调优人造板产业结构 推进国有林业企业战略性重组和专业化整合",
@@ -14,9 +14,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "“广西北海有人放生淡水龟”系谣言",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E6%9C%89%E4%BA%BA%E6%94%BE%E7%94%9F%E6%B7%A1%E6%B0%B4%E9%BE%9F%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         }
       ]
     }
