@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-01-23T23:35:09.026551+08:00",
-  "total_titles_processed": 2167,
+  "generated_at": "2026-01-24T00:40:44.829589+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "广西",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "广西人有自己的“防寒装备”",
-          "url": "https://www.toutiao.com/trending/7597102541293436937/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 10时13分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
