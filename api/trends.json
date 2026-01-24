@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-01-24T23:28:14.017367+08:00",
-  "total_titles_processed": 1565,
+  "generated_at": "2026-01-25T00:34:04.525126+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "广西",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "与辉同行广西行开启",
-          "url": "https://www.douyin.com/hot/2378200",
-          "source": "抖音",
-          "ranks": [
-            26,
-            16,
-            17,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时35分 ~ 23时28分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
