@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T19:28:28.775739+08:00",
-  "total_titles_processed": 1485,
+  "generated_at": "2026-01-26T21:04:12.853455+08:00",
+  "total_titles_processed": 1608,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             6,
             5,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 19时28分]"
+          "appearance_count": 12,
+          "time_info": "[12时21分 ~ 21时04分]"
         },
         {
           "title": "为何这次回南天广西更严重",
