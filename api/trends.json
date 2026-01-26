@@ -1,56 +1,22 @@
 {
-  "generated_at": "2026-01-26T23:37:27.258251+08:00",
-  "total_titles_processed": 1827,
+  "generated_at": "2026-01-27T00:43:18.300254+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "广西",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "跨省份调任：蔡允革任广西壮族自治区党委常委",
           "url": "https://m.thepaper.cn/newsDetail_forward_32463576",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            6,
-            5,
-            4,
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时21分 ~ 23时37分]"
-        },
-        {
-          "title": "为何这次回南天广西更严重",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E8%BF%99%E6%AC%A1%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B9%BF%E8%A5%BF%E6%9B%B4%E4%B8%A5%E9%87%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            18,
-            10,
-            6,
-            19,
-            28,
-            24,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 23时37分]"
-        },
-        {
-          "title": "广西发行3年期一般债地方债，规模52.0900亿元，发行利率1.4700%，边际倍数1.06倍，倍数预期1.48。",
-          "url": "https://wallstreetcn.com/livenews/3043802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时43分"
+          "time_info": "00时43分"
         }
       ]
     }
