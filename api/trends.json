@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T14:50:24.648989+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2026-01-26T15:35:36.433862+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             6,
             19,
             28,
-            24
+            24,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 14时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 15时35分]"
         },
         {
           "title": "跨省份调任：蔡允革任广西壮族自治区党委常委",
@@ -33,8 +34,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 14时50分]"
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 15时35分]"
         }
       ]
     }
