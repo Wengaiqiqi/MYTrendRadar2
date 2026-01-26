@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T16:43:00.585760+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-01-26T17:42:38.449954+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时21分 ~ 16时43分]"
+          "appearance_count": 7,
+          "time_info": "[12时21分 ~ 17时42分]"
         },
         {
           "title": "广西发行3年期一般债地方债，规模52.0900亿元，发行利率1.4700%，边际倍数1.06倍，倍数预期1.48。",
@@ -45,7 +45,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         }
