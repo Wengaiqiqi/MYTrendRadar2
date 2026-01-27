@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-01-27T23:38:03.632124+08:00",
-  "total_titles_processed": 2061,
+  "generated_at": "2026-01-28T00:39:32.622536+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "广西",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "跨省份调任：蔡允革任广西壮族自治区党委常委",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32463576",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 10时25分]"
-        },
-        {
-          "title": "为何这次回南天广西更严重",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E8%BF%99%E6%AC%A1%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%B9%BF%E8%A5%BF%E6%9B%B4%E4%B8%A5%E9%87%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
