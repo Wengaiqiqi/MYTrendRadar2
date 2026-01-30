@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T16:51:37.265722+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2026-01-30T17:49:59.436041+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "广西",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "广西百菲乳业股份有限公司IPO审核状态变更为“终止”。",
+          "url": "https://wallstreetcn.com/livenews/3047207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
         }
       ]
     }
