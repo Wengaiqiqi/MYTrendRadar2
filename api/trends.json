@@ -1,39 +1,7 @@
 {
-  "generated_at": "2026-02-01T23:33:38.987621+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2026-02-02T00:39:52.110229+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "南宁",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "广西关键金属研究院启动座谈会暨合作签约仪式在南宁举行",
-          "url": "https://wallstreetcn.com/livenews/3047702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            11,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时31分]"
-        },
-        {
-          "title": "央视报道广西南宁早餐攻略",
-          "url": "https://www.toutiao.com/trending/7601714963774718015/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
