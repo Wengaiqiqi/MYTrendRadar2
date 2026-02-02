@@ -1,25 +1,8 @@
 {
-  "generated_at": "2026-02-02T23:43:47.154183+08:00",
-  "total_titles_processed": 1696,
+  "generated_at": "2026-02-03T00:52:22.764730+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "南宁",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "南宁商场持刀伤人事件系谣言",
-          "url": "https://www.toutiao.com/trending/7601844831246663723/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时43分 ~ 19时44分]"
-        }
-      ]
-    },
     {
       "keyword_group": "广西",
       "match_count": 1,
@@ -29,14 +12,11 @@
           "url": "https://www.douyin.com/hot/2387331",
           "source": "抖音",
           "ranks": [
-            11,
-            8,
-            13,
-            22
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时59分 ~ 23时43分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         }
       ]
     }
