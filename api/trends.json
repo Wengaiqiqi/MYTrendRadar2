@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-02-03T23:58:05.139824+08:00",
-  "total_titles_processed": 1798,
+  "generated_at": "2026-02-04T01:05:32.945377+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "广西",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中足联：广西平果失去准入资格",
-          "url": "https://www.douyin.com/hot/2387331",
-          "source": "抖音",
-          "ranks": [
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 07时36分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
