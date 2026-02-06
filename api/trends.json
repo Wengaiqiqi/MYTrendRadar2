@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-02-06T23:50:37.257528+08:00",
-  "total_titles_processed": 2034,
+  "generated_at": "2026-02-07T00:57:04.523843+08:00",
+  "total_titles_processed": 318,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "广西",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "警方回应云A牌照救护车频现广西",
-          "url": "https://www.toutiao.com/trending/7603366658622832646/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
