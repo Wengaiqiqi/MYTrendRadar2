@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T18:36:44.457033+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-02-08T19:31:38.345579+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "广西",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "1999年捐款造航母的男孩登上广西舰",
@@ -17,8 +17,19 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时45分 ~ 18时36分]"
+          "appearance_count": 6,
+          "time_info": "[15时45分 ~ 19时31分]"
+        },
+        {
+          "title": "如何评价黄子华郑秀文喜剧片《夜王》定档 2026 春节，大年初四广东、广西限定上映？对此你有何期待？",
+          "url": "https://www.zhihu.com/question/2003111023398315533",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         }
       ]
     }
