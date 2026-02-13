@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T12:59:58.718248+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2026-02-13T14:09:17.778178+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 12时59分]"
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 14时09分]"
         },
         {
           "title": "让压岁钱摆脱“攀比枷锁”，广西多地发布小额红包倡议书",
@@ -26,11 +27,12 @@
           "ranks": [
             12,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时37分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 14时09分]"
         }
       ]
     }
