@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-02-13T14:09:17.778178+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2026-02-13T15:54:48.728621+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "广西",
       "match_count": 2,
       "titles": [
+        {
+          "title": "让压岁钱摆脱“攀比枷锁”，广西多地发布小额红包倡议书",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32591737",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时37分 ~ 15时54分]"
+        },
         {
           "title": "女子骑电动车近 2 个月从上海回广西，已走三千多公里，如何看待这个交通方式？你有哪些有趣的回家经历？",
           "url": "https://www.zhihu.com/question/2005208405250368890",
@@ -19,20 +34,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时51分 ~ 14时09分]"
-        },
-        {
-          "title": "让压岁钱摆脱“攀比枷锁”，广西多地发布小额红包倡议书",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32591737",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时37分 ~ 14时09分]"
         }
       ]
     }
