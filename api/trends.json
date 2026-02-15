@@ -1,35 +1,22 @@
 {
-  "generated_at": "2026-02-15T23:33:11.438886+08:00",
-  "total_titles_processed": 1286,
+  "generated_at": "2026-02-16T00:39:59.049731+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "广西",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "广西人杀鸭有多猛 请鱼当“拔毛工”",
           "url": "https://www.toutiao.com/trending/7607041372562096170/",
           "source": "今日头条",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时32分 ~ 23时33分]"
-        },
-        {
-          "title": "广西“西游记”组合连续办了3天宴席",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E2%80%9C%E8%A5%BF%E6%B8%B8%E8%AE%B0%E2%80%9D%E7%BB%84%E5%90%88%E8%BF%9E%E7%BB%AD%E5%8A%9E%E4%BA%863%E5%A4%A9%E5%AE%B4%E5%B8%AD",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时31分 ~ 06时32分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         }
       ]
     }
