@@ -1,31 +1,7 @@
 {
-  "generated_at": "2026-02-16T23:50:38.743160+08:00",
-  "total_titles_processed": 1535,
+  "generated_at": "2026-02-17T00:55:43.424556+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "广西",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "广西人杀鸭有多猛 请鱼当“拔毛工”",
-          "url": "https://www.toutiao.com/trending/7607041372562096170/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            13,
-            14,
-            17,
-            23,
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 07时35分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
