@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-02-19T23:57:22.046536+08:00",
-  "total_titles_processed": 1842,
+  "generated_at": "2026-02-20T01:05:20.652241+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "广西",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "广西一高校机器人登上总台春戏晚舞台",
-          "url": "https://www.toutiao.com/trending/7608490653961748522/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
