@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-23T15:16:03.482561+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2026-02-23T17:00:04.374002+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "广西",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "广西农民为何热衷种甘蔗",
+          "url": "https://www.toutiao.com/trending/7609788836637343798/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 17时00分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
