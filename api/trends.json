@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-02-28T23:32:08.595049+08:00",
-  "total_titles_processed": 2127,
+  "generated_at": "2026-03-01T00:35:55.781743+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "广西",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "看看广西人过年能收到多少红包",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9C%8B%E7%9C%8B%E5%B9%BF%E8%A5%BF%E4%BA%BA%E8%BF%87%E5%B9%B4%E8%83%BD%E6%94%B6%E5%88%B0%E5%A4%9A%E5%B0%91%E7%BA%A2%E5%8C%85",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            18,
-            17,
-            16,
-            12,
-            19,
-            23,
-            24,
-            20,
-            25,
-            21,
-            30,
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时53分 ~ 22时31分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
