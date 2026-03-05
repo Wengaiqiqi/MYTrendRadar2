@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T16:54:43.038565+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2026-03-05T17:55:01.201619+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "广西",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "广西三月三共休4天",
@@ -15,11 +15,23 @@
             22,
             19,
             18,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 15时02分]"
+          "appearance_count": 7,
+          "time_info": "[10时40分 ~ 17时55分]"
+        },
+        {
+          "title": "广西整个四月都在上四休三",
+          "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E6%95%B4%E4%B8%AA%E5%9B%9B%E6%9C%88%E9%83%BD%E5%9C%A8%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 17时55分]"
         }
       ]
     }
