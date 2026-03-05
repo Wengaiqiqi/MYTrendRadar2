@@ -1,40 +1,7 @@
 {
-  "generated_at": "2026-03-05T23:57:09.924535+08:00",
-  "total_titles_processed": 1976,
+  "generated_at": "2026-03-06T02:12:47.386565+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "广西",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "广西三月三共休4天",
-          "url": "https://www.douyin.com/hot/2419341",
-          "source": "抖音",
-          "ranks": [
-            22,
-            19,
-            18,
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时40分 ~ 17时55分]"
-        },
-        {
-          "title": "广西整个四月都在上四休三",
-          "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E6%95%B4%E4%B8%AA%E5%9B%9B%E6%9C%88%E9%83%BD%E5%9C%A8%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时54分 ~ 18时51分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
