@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T18:45:33.120676+08:00",
-  "total_titles_processed": 1541,
+  "generated_at": "2026-03-06T19:37:04.567184+08:00",
+  "total_titles_processed": 1632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "广西",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "广西书记陈刚：今天就亮亮家丑",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时50分 ~ 18时45分]"
+        },
+        {
+          "title": "广西书记：我今天就“亮亮家丑”",
+          "url": "https://www.douyin.com/hot/2420995",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 19时37分]"
         }
       ]
     }
