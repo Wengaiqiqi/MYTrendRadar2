@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-03-11T23:56:48.166445+08:00",
-  "total_titles_processed": 2008,
+  "generated_at": "2026-03-12T01:02:49.189716+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "广西",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "广西一山洞内景似世外桃源",
-          "url": "https://www.toutiao.com/trending/7615437911443095595/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            30,
-            8,
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时53分 ~ 07时35分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
